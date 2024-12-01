@@ -22,3 +22,4 @@ Sales Mobile empowered homeowners to visualize renovation proposals and provide 
 In an era when Blackberry was at the forefront of business technology, **Sales Mobile** was a pioneering tool that combined functionality, user experience, and innovation to meet the needs of both companies and clients.  
 
 **Built in 2012**, Sales Mobile remains a testament to how early hybrid app development paved the way for today's advanced mobile solutions.  
+
